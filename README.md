@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @MasikaAbduli
-- 👀 I’m interested in Collecting pieces of Codes to solve historical problem.
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any project related to the current programming language I am Learning.
-- 📫 How to reach me : check out my Portfolio [mo-no.pages.dev][MonoBasim]
-- ⚡ Fun fact: I actually struggled to make this read me since it my first time.
+# Hello, I'm @MasikaAbduli!
+
+## About Me
+I'm passionate about leveraging code to tackle historical problems and bring innovative solutions to life. Currently, I'm deep into learning JavaScript and am eager to apply my skills in real-world projects.
+
+## Interests
+- *Coding for Change*: Enthusiastic about using code to solve meaningful problems.
+- *Continuous Learning*: Always on the lookout for new technologies and best practices.
+
+## Current Focus
+🌱 *Learning*: JavaScript
+
+## Collaboration
+I'm open to collaborating on projects related to JavaScript or any other technologies I'm currently exploring.
+
+## Get in Touch
+📫 *Portfolio*: [MonoBasim]: https://mo-no.pages.dev
+
+## Fun Fact
+⚡ I struggled a bit to put this README together since it's my first time, but every journey begins with a single step!
