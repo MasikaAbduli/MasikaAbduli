@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MasikaAbduli
+- 👀 I’m interested in Collecting pieces of Codes to solve historical problem.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any project related to the current programming language I am Learning.
+- 📫 How to reach me : check out my Portfolio [mo-no.pages.dev][MonoBasim]
+- ⚡ Fun fact: I actually struggled to make this read me since it my first time.
